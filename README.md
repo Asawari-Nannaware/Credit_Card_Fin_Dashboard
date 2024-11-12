@@ -6,34 +6,34 @@ Below is a screenshot of the dashboard:
 
 ![credit card customer report Dashboard](https://github.com/Asawari-Nannaware/Credit_Card_Fin_Dashboard/blob/main/credit%20card%20transaction%20report.png)
 
-#**Credit Card Customer Report Dashboard**
-#**Project Overview**
+**Credit Card Customer Report Dashboard**
+**Project Overview**
 This comprehensive dashboard provides a detailed analysis of the credit card customer data for the organization. It consolidates key performance metrics and visualizes trends across various dimensions, empowering stakeholders to make informed business decisions.
 
 **Objectives**
 
-#The primary objectives of this dashboard are:
+## The primary objectives of this dashboard are:
 
 To gain a deep understanding of the organization's credit card customer base, including revenue, interest, income, and customer satisfaction metrics.
 To identify growth opportunities, optimize customer strategies, and enhance overall business performance.
 
 **Key Features**
 
-###Financial Metrics: Presents the total revenue, total interest, total income, and customer satisfaction score (CSS) for the organization.
+### 1. Financial Metrics: Presents the total revenue, total interest, total income, and customer satisfaction score (CSS) for the organization.
 
-###Revenue vs. Gender: Visualizes the revenue trends based on the customer's gender.
+### 2. Revenue vs. Gender: Visualizes the revenue trends based on the customer's gender.
 
-###Top 5 States: Highlights the top-performing states by revenue contribution.
+### 3. Top 5 States: Highlights the top-performing states by revenue contribution.
 
-###Salary Group: Analyzes the revenue and income distribution across different salary groups (Low, Mid, and High).
+### 4. Salary Group: Analyzes the revenue and income distribution across different salary groups (Low, Mid, and High).
 
-###Age Group: Displays the customer distribution and corresponding revenue/income data based on age groups.
+### 5. Age Group: Displays the customer distribution and corresponding revenue/income data based on age groups.
 
-###Dependent Count: Provides insights into the number of dependents per customer.
+### 6. Dependent Count: Provides insights into the number of dependents per customer.
 
-###Marital Status: Examines the revenue and income trends based on the customer's marital status.
+### 7. Marital Status: Examines the revenue and income trends based on the customer's marital status.
 
-###Education Level: Showcases the revenue and income distribution across various education levels.
+### 8. Education Level: Showcases the revenue and income distribution across various education levels.
 
 **Key Insights**
 
