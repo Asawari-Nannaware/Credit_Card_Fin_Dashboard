@@ -1,13 +1,13 @@
-# Credit_Card_Fin_Dashboard
-## Dashboard Screenshot
+### **Credit_Card_Fin_Dashboard**
+### Dashboard Screenshot
 Below is a screenshot of the dashboard:
 
 ![credit card customer report Dashboard](https://github.com/Asawari-Nannaware/Credit_Card_Fin_Dashboard/blob/main/Credit%20card%20customer%20report.png)
 
 ![credit card customer report Dashboard](https://github.com/Asawari-Nannaware/Credit_Card_Fin_Dashboard/blob/main/credit%20card%20transaction%20report.png)
 
-**Credit Card Customer Report Dashboard**
-**Project Overview**
+### **Credit Card Customer Report Dashboard**
+***Project Overview**
 This comprehensive dashboard provides a detailed analysis of the credit card customer data for the organization. It consolidates key performance metrics and visualizes trends across various dimensions, empowering stakeholders to make informed business decisions.
 
 **Objectives**
@@ -35,7 +35,7 @@ To identify growth opportunities, optimize customer strategies, and enhance over
 
  8. Education Level: Showcases the revenue and income distribution across various education levels.
 
-#### **Key Insights**
+ **Key Insights**
 
 Consistent Revenue Growth: The dashboard indicates a steady quarter-over-quarter increase in total revenue, with a significant contribution from the "Selfemployeed" customer segment.
 
