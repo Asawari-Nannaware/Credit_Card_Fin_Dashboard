@@ -6,18 +6,18 @@ Below is a screenshot of the dashboard:
 
 ![credit card customer report Dashboard](https://github.com/Asawari-Nannaware/Credit_Card_Fin_Dashboard/blob/main/credit%20card%20transaction%20report.png)
 
-### **Credit Card Customer Report Dashboard**
+## Credit Card Customer Report Dashboard
 ***Project Overview**
 This comprehensive dashboard provides a detailed analysis of the credit card customer data for the organization. It consolidates key performance metrics and visualizes trends across various dimensions, empowering stakeholders to make informed business decisions.
 
-**Objectives**
+## Objectives 
 
 ## The primary objectives of this dashboard are:
 
 To gain a deep understanding of the organization's credit card customer base, including revenue, interest, income, and customer satisfaction metrics.
 To identify growth opportunities, optimize customer strategies, and enhance overall business performance.
 
-### **Key Features**
+## Key Features
 
  1. Financial Metrics: Presents the total revenue, total interest, total income, and customer satisfaction score (CSS) for the organization.
 
@@ -35,7 +35,7 @@ To identify growth opportunities, optimize customer strategies, and enhance over
 
  8. Education Level: Showcases the revenue and income distribution across various education levels.
 
- **Key Insights**
+ ## Key Insights
 
 Consistent Revenue Growth: The dashboard indicates a steady quarter-over-quarter increase in total revenue, with a significant contribution from the "Selfemployeed" customer segment.
 
@@ -47,6 +47,6 @@ Marital Status Influence: Married customers appear to have a higher impact on re
 
 Education Level Trends: Customers with graduate-level education generate the highest revenue and income, indicating the potential for targeted marketing efforts towards this segment.
 
-### **Conclusion**
+## Conclusion
 
 The Credit Card Customer Report Dashboard provides a comprehensive overview of the organization's credit card customer base, enabling stakeholders to make data-driven decisions. By leveraging the insights and trends highlighted in this dashboard, the management team can develop strategies to acquire new customers, retain high-value accounts, and optimize the overall credit card business performance.
