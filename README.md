@@ -7,7 +7,7 @@ Below is a screenshot of the dashboard:
 ![credit card customer report Dashboard](https://github.com/Asawari-Nannaware/Credit_Card_Fin_Dashboard/blob/main/credit%20card%20transaction%20report.png)
 
 ## Credit Card Customer Report Dashboard
-***Project Overview**
+**Project Overview**
 This comprehensive dashboard provides a detailed analysis of the credit card customer data for the organization. It consolidates key performance metrics and visualizes trends across various dimensions, empowering stakeholders to make informed business decisions.
 
 ## Objectives 
